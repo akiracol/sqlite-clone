@@ -4,7 +4,8 @@
 enum InputType {
     EXIT,
     HELP,
-    OTHER
+    OTHER,
+    QUERY
 };
 
 
